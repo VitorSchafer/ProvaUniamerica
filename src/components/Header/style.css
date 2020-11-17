@@ -1,0 +1,66 @@
+.header{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: black;
+    height: 70px;
+
+}
+
+.imga{
+    position: absolute;
+    left: 10px;
+    height: 70px;
+}
+
+.img_cent{
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    left: 430px;
+    top: 140px;
+}
+
+.texto{
+    text-align: center;
+}
+.icone_w{
+    position: absolute;
+    width: 30px;
+    top: 519px;
+}
+
+.num {
+    position: absolute;
+    top: 519px;
+    left: 40px;
+    font-size: 17px;
+    color: green;
+}
+
+.icone_f{
+    position: absolute;
+    width: 30px;
+    top: 565px;
+}
+
+.facebook{
+    position: absolute;
+    top: 565px;
+    left: 40px;
+    font-size: 17px;
+    color: blue;
+}
+
+.icone_i{
+    position: absolute;
+    width: 30px;
+    top: 611px;
+}
+
+.instagram{
+    position: absolute;
+    top: 611px;
+    left: 40px;
+    font-size: 17px;
+    color: rgb(224, 17, 62);
+}
